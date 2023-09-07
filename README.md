@@ -37,6 +37,6 @@
 <hr></hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=etaghiloo&theme=yeblu&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=etaghiloo&theme=yeblu&card_width=415)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etaghiloo&layout=compact&theme=yeblu&card_width=450)](https://github.com/etaghiloo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etaghiloo&layout=compact&theme=yeblu&card_width=415)](https://github.com/etaghiloo/github-readme-stats)
