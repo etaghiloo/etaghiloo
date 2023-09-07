@@ -19,7 +19,7 @@
   - :seedling: I’m currently learning front-end tools.
 </div>
 <div>
-  - :zap: I fold papers in my free time. Checkout this origami me and my friend invented. [(https://img.shields.io/badge/DragonBoat-yellow.png?logo=&logoColor=white&link=http://www.etaghiloo.ir/dragon-boat)](http://www.etaghiloo.ir/dragon-boat)
+  - :zap: I fold papers in my free time. Checkout this origami me and my friend invented. [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elnaz.taghiloo@gmail.com)](mailto:elnaz.taghiloo@gmail.com)
 </div>
 <hr></hr>
 
