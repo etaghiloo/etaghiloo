@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlzd2h1OGlwNzBsM203ZHc4NmhoeXhxb3FkeDA3NDYzbW50NjQyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" width="150"/>
 </div>
-<div id="badges" align="center">
+<div id="badges">
   <a href="http://www.etaghiloo.ir" target="_blank">
     <img src="https://img.shields.io/badge/website-053875?style=for-the-badge&logo=&logoColor=white" alt="Website Badge"/>
   </a>
