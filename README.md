@@ -19,7 +19,7 @@
   - :seedling: I’m currently learning front-end tools.
 </div>
 <div>
-  - :zap: I fold papers in my free time. Checkout this origami me and my friend invented.
+  - :zap: I fold papers in my free time. Check out this origami me and my friend invented.
   <a href="http://www.etaghiloo.ir/dragon-boat" target="_blank">
     [dragonboat origami]
   </a>
